@@ -1,4 +1,7 @@
 *.beam
 *.ez
-/build
+/src/kernel/build
 erl_crash.dump
+*.aux
+*.out
+*.pdf

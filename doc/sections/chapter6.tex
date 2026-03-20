@@ -1,0 +1,42 @@
+\section{CIC: The functional fragment}
+\vspace{10.5cm}
+
+We introduce a grammar of expressions of the Calculus of Construction.
+
+It is indeed just a fragment of all possible expressions at the moment. We will expand the grammar in the next
+sections part by part.
+
+We also introduce a grammar for a context.
+
+\begin{align*}
+	uvar    {}::={} & u \vert uvar^\prime\\
+	level   {}::={} & uvar \vert 0 \vert S uvar \vert \max(uvar, uvar) \vert imax(uvar, uvar)\\
+	var     {}::={} & x \vert var^\prime\\
+	expr    {}::={} &  var \vert U_{level} \vert expr expr \vert \lambda var:expr.expr \vert \forall var:expr.expr \\
+	context {}::={} &  \diamond\vert context, var: expr 
+\end{align*}
+
+Terms of type $expr$ are called \textbf{expressions} and terms of type context \textbf{contexts}
+
+Here are some examples of expressions:
+
+\begin{align*}
+	x\\
+	U_{S0}\\
+	\lambda x:U_{S0}.x\\
+	\lambda x:U_{0}.x\lambda x^\prime:U_{S0}.x x^\prime\\
+	\lambda x:U_{0}.x x^\prime\\
+\end{align*}
+
+Terms of kind $uvar$ are called universe variables. Informally, we write $u_0, u_1, u_2, v_0, v_1, \dots$ for these
+variables.
+
+The terms of kind $level$ are called \textbf{level labels}.
+
+In place of $0, S0, SS0,\dots$ we will simply write $0, 1, 2,\dots$. Hence, all of the following are level labels:
+
+$$u, v, u_0, 7, max(u, 5), imax(v, 7)$$
+
+Analogously, all other lowercase latin letters apart from $u$ and $v$ are used as \textbf{expression variables}, i. e.
+terms of type $var$.
+

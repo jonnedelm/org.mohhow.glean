@@ -1,0 +1,268 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}2 is irrational}{9}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Downloading Tex Studio}{9}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Source Code and Resume Templates}{9}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}LaTeX Files}{9}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}LaTeX Commands}{10}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}General Items}{10}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Terminology to Know}{10}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Tex Studio Commands}{10}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Creating Templates}{10}{subsection.1.7}%
+\contentsline {section}{\numberline {2}Syllogisms}{12}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Downloading Tex Studio}{12}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Source Code and Resume Templates}{12}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}LaTeX Files}{12}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}LaTeX Commands}{13}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.4}General Items}{13}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Terminology to Know}{13}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Tex Studio Commands}{13}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Creating Templates}{13}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Formal Languages}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Downloading Tex Studio}{15}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Source Code and Resume Templates}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}LaTeX Files}{15}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}LaTeX Commands}{16}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}General Items}{16}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Terminology to Know}{16}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Tex Studio Commands}{16}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Creating Templates}{16}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Language Hierarchy}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Downloading Tex Studio}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Source Code and Resume Templates}{18}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}LaTeX Files}{18}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}LaTeX Commands}{19}{subsubsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.4}General Items}{19}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Terminology to Know}{19}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Tex Studio Commands}{19}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Creating Templates}{19}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Logic Languages}{21}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Downloading Tex Studio}{21}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Source Code and Resume Templates}{21}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}LaTeX Files}{21}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}LaTeX Commands}{22}{subsubsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.4}General Items}{22}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Terminology to Know}{22}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Tex Studio Commands}{22}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Creating Templates}{22}{subsection.5.7}%
+\contentsline {section}{\numberline {6}CIC: The functional fragment}{24}{section.6}%
+\contentsline {section}{\numberline {7}Judgments}{26}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Downloading Tex Studio}{26}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Source Code and Resume Templates}{26}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}LaTeX Files}{26}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}LaTeX Commands}{27}{subsubsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.4}General Items}{27}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Terminology to Know}{27}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Tex Studio Commands}{27}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Creating Templates}{27}{subsection.7.7}%
+\contentsline {section}{\numberline {8}Universes}{29}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Downloading Tex Studio}{29}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Source Code and Resume Templates}{29}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}LaTeX Files}{29}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}LaTeX Commands}{30}{subsubsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.4}General Items}{30}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Terminology to Know}{30}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Tex Studio Commands}{30}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Creating Templates}{30}{subsection.8.7}%
+\contentsline {section}{\numberline {9}Propositions}{32}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Downloading Tex Studio}{32}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Source Code and Resume Templates}{32}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}LaTeX Files}{32}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}LaTeX Commands}{33}{subsubsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.4}General Items}{33}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Terminology to Know}{33}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Tex Studio Commands}{33}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Creating Templates}{33}{subsection.9.7}%
+\contentsline {section}{\numberline {10}Inductive Types in Lean}{35}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Downloading Tex Studio}{35}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Source Code and Resume Templates}{35}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}LaTeX Files}{35}{subsection.10.3}%
+\contentsline {subsubsection}{\numberline {10.3.1}LaTeX Commands}{36}{subsubsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.4}General Items}{36}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Terminology to Know}{36}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Tex Studio Commands}{36}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Creating Templates}{36}{subsection.10.7}%
+\contentsline {section}{\numberline {11}Inductive Types in CIC}{38}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Downloading Tex Studio}{38}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Source Code and Resume Templates}{38}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}LaTeX Files}{38}{subsection.11.3}%
+\contentsline {subsubsection}{\numberline {11.3.1}LaTeX Commands}{39}{subsubsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.4}General Items}{39}{subsection.11.4}%
+\contentsline {subsection}{\numberline {11.5}Terminology to Know}{39}{subsection.11.5}%
+\contentsline {subsection}{\numberline {11.6}Tex Studio Commands}{39}{subsection.11.6}%
+\contentsline {subsection}{\numberline {11.7}Creating Templates}{39}{subsection.11.7}%
+\contentsline {section}{\numberline {12}Lean Language Tour}{41}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Downloading Tex Studio}{41}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Source Code and Resume Templates}{41}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}LaTeX Files}{41}{subsection.12.3}%
+\contentsline {subsubsection}{\numberline {12.3.1}LaTeX Commands}{42}{subsubsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.4}General Items}{42}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}Terminology to Know}{42}{subsection.12.5}%
+\contentsline {subsection}{\numberline {12.6}Tex Studio Commands}{42}{subsection.12.6}%
+\contentsline {subsection}{\numberline {12.7}Creating Templates}{42}{subsection.12.7}%
+\contentsline {section}{\numberline {13}Projective Geometry}{44}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Downloading Tex Studio}{44}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Source Code and Resume Templates}{44}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}LaTeX Files}{44}{subsection.13.3}%
+\contentsline {subsubsection}{\numberline {13.3.1}LaTeX Commands}{45}{subsubsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.4}General Items}{45}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}Terminology to Know}{45}{subsection.13.5}%
+\contentsline {subsection}{\numberline {13.6}Tex Studio Commands}{45}{subsection.13.6}%
+\contentsline {subsection}{\numberline {13.7}Creating Templates}{45}{subsection.13.7}%
+\contentsline {section}{\numberline {14}Definitional Equivalence}{47}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Downloading Tex Studio}{47}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Source Code and Resume Templates}{47}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}LaTeX Files}{47}{subsection.14.3}%
+\contentsline {subsubsection}{\numberline {14.3.1}LaTeX Commands}{48}{subsubsection.14.3.1}%
+\contentsline {subsection}{\numberline {14.4}General Items}{48}{subsection.14.4}%
+\contentsline {subsection}{\numberline {14.5}Terminology to Know}{48}{subsection.14.5}%
+\contentsline {subsection}{\numberline {14.6}Tex Studio Commands}{48}{subsection.14.6}%
+\contentsline {subsection}{\numberline {14.7}Creating Templates}{48}{subsection.14.7}%
+\contentsline {section}{\numberline {15}Quotient Types}{50}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Downloading Tex Studio}{50}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Source Code and Resume Templates}{50}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}LaTeX Files}{50}{subsection.15.3}%
+\contentsline {subsubsection}{\numberline {15.3.1}LaTeX Commands}{51}{subsubsection.15.3.1}%
+\contentsline {subsection}{\numberline {15.4}General Items}{51}{subsection.15.4}%
+\contentsline {subsection}{\numberline {15.5}Terminology to Know}{51}{subsection.15.5}%
+\contentsline {subsection}{\numberline {15.6}Tex Studio Commands}{51}{subsection.15.6}%
+\contentsline {subsection}{\numberline {15.7}Creating Templates}{51}{subsection.15.7}%
+\contentsline {section}{\numberline {16}Unique Typing}{53}{section.16}%
+\contentsline {subsection}{\numberline {16.1}Downloading Tex Studio}{53}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}Source Code and Resume Templates}{53}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}LaTeX Files}{53}{subsection.16.3}%
+\contentsline {subsubsection}{\numberline {16.3.1}LaTeX Commands}{54}{subsubsection.16.3.1}%
+\contentsline {subsection}{\numberline {16.4}General Items}{54}{subsection.16.4}%
+\contentsline {subsection}{\numberline {16.5}Terminology to Know}{54}{subsection.16.5}%
+\contentsline {subsection}{\numberline {16.6}Tex Studio Commands}{54}{subsection.16.6}%
+\contentsline {subsection}{\numberline {16.7}Creating Templates}{54}{subsection.16.7}%
+\contentsline {section}{\numberline {17}Church Rosser}{56}{section.17}%
+\contentsline {subsection}{\numberline {17.1}Downloading Tex Studio}{56}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}Source Code and Resume Templates}{56}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3}LaTeX Files}{56}{subsection.17.3}%
+\contentsline {subsubsection}{\numberline {17.3.1}LaTeX Commands}{57}{subsubsection.17.3.1}%
+\contentsline {subsection}{\numberline {17.4}General Items}{57}{subsection.17.4}%
+\contentsline {subsection}{\numberline {17.5}Terminology to Know}{57}{subsection.17.5}%
+\contentsline {subsection}{\numberline {17.6}Tex Studio Commands}{57}{subsection.17.6}%
+\contentsline {subsection}{\numberline {17.7}Creating Templates}{57}{subsection.17.7}%
+\contentsline {section}{\numberline {18}ZFC}{59}{section.18}%
+\contentsline {subsection}{\numberline {18.1}Downloading Tex Studio}{59}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2}Source Code and Resume Templates}{59}{subsection.18.2}%
+\contentsline {subsection}{\numberline {18.3}LaTeX Files}{59}{subsection.18.3}%
+\contentsline {subsubsection}{\numberline {18.3.1}LaTeX Commands}{60}{subsubsection.18.3.1}%
+\contentsline {subsection}{\numberline {18.4}General Items}{60}{subsection.18.4}%
+\contentsline {subsection}{\numberline {18.5}Terminology to Know}{60}{subsection.18.5}%
+\contentsline {subsection}{\numberline {18.6}Tex Studio Commands}{60}{subsection.18.6}%
+\contentsline {subsection}{\numberline {18.7}Creating Templates}{60}{subsection.18.7}%
+\contentsline {section}{\numberline {19}ZFC in Lean}{62}{section.19}%
+\contentsline {subsection}{\numberline {19.1}Downloading Tex Studio}{62}{subsection.19.1}%
+\contentsline {subsection}{\numberline {19.2}Source Code and Resume Templates}{62}{subsection.19.2}%
+\contentsline {subsection}{\numberline {19.3}LaTeX Files}{62}{subsection.19.3}%
+\contentsline {subsubsection}{\numberline {19.3.1}LaTeX Commands}{63}{subsubsection.19.3.1}%
+\contentsline {subsection}{\numberline {19.4}General Items}{63}{subsection.19.4}%
+\contentsline {subsection}{\numberline {19.5}Terminology to Know}{63}{subsection.19.5}%
+\contentsline {subsection}{\numberline {19.6}Tex Studio Commands}{63}{subsection.19.6}%
+\contentsline {subsection}{\numberline {19.7}Creating Templates}{63}{subsection.19.7}%
+\contentsline {section}{\numberline {20}Structures}{65}{section.20}%
+\contentsline {subsection}{\numberline {20.1}Downloading Tex Studio}{65}{subsection.20.1}%
+\contentsline {subsection}{\numberline {20.2}Source Code and Resume Templates}{65}{subsection.20.2}%
+\contentsline {subsection}{\numberline {20.3}LaTeX Files}{65}{subsection.20.3}%
+\contentsline {subsubsection}{\numberline {20.3.1}LaTeX Commands}{66}{subsubsection.20.3.1}%
+\contentsline {subsection}{\numberline {20.4}General Items}{66}{subsection.20.4}%
+\contentsline {subsection}{\numberline {20.5}Terminology to Know}{66}{subsection.20.5}%
+\contentsline {subsection}{\numberline {20.6}Tex Studio Commands}{66}{subsection.20.6}%
+\contentsline {subsection}{\numberline {20.7}Creating Templates}{66}{subsection.20.7}%
+\contentsline {section}{\numberline {21}Models}{68}{section.21}%
+\contentsline {subsection}{\numberline {21.1}Downloading Tex Studio}{68}{subsection.21.1}%
+\contentsline {subsection}{\numberline {21.2}Source Code and Resume Templates}{68}{subsection.21.2}%
+\contentsline {subsection}{\numberline {21.3}LaTeX Files}{68}{subsection.21.3}%
+\contentsline {subsubsection}{\numberline {21.3.1}LaTeX Commands}{69}{subsubsection.21.3.1}%
+\contentsline {subsection}{\numberline {21.4}General Items}{69}{subsection.21.4}%
+\contentsline {subsection}{\numberline {21.5}Terminology to Know}{69}{subsection.21.5}%
+\contentsline {subsection}{\numberline {21.6}Tex Studio Commands}{69}{subsection.21.6}%
+\contentsline {subsection}{\numberline {21.7}Creating Templates}{69}{subsection.21.7}%
+\contentsline {section}{\numberline {22}Compactness}{71}{section.22}%
+\contentsline {subsection}{\numberline {22.1}Downloading Tex Studio}{71}{subsection.22.1}%
+\contentsline {subsection}{\numberline {22.2}Source Code and Resume Templates}{71}{subsection.22.2}%
+\contentsline {subsection}{\numberline {22.3}LaTeX Files}{71}{subsection.22.3}%
+\contentsline {subsubsection}{\numberline {22.3.1}LaTeX Commands}{72}{subsubsection.22.3.1}%
+\contentsline {subsection}{\numberline {22.4}General Items}{72}{subsection.22.4}%
+\contentsline {subsection}{\numberline {22.5}Terminology to Know}{72}{subsection.22.5}%
+\contentsline {subsection}{\numberline {22.6}Tex Studio Commands}{72}{subsection.22.6}%
+\contentsline {subsection}{\numberline {22.7}Creating Templates}{72}{subsection.22.7}%
+\contentsline {section}{\numberline {23}Loewenheim-Skolem}{74}{section.23}%
+\contentsline {subsection}{\numberline {23.1}Downloading Tex Studio}{74}{subsection.23.1}%
+\contentsline {subsection}{\numberline {23.2}Source Code and Resume Templates}{74}{subsection.23.2}%
+\contentsline {subsection}{\numberline {23.3}LaTeX Files}{74}{subsection.23.3}%
+\contentsline {subsubsection}{\numberline {23.3.1}LaTeX Commands}{75}{subsubsection.23.3.1}%
+\contentsline {subsection}{\numberline {23.4}General Items}{75}{subsection.23.4}%
+\contentsline {subsection}{\numberline {23.5}Terminology to Know}{75}{subsection.23.5}%
+\contentsline {subsection}{\numberline {23.6}Tex Studio Commands}{75}{subsection.23.6}%
+\contentsline {subsection}{\numberline {23.7}Creating Templates}{75}{subsection.23.7}%
+\contentsline {section}{\numberline {24}Lean Kernel}{77}{section.24}%
+\contentsline {subsection}{\numberline {24.1}Downloading Tex Studio}{77}{subsection.24.1}%
+\contentsline {subsection}{\numberline {24.2}Source Code and Resume Templates}{77}{subsection.24.2}%
+\contentsline {subsection}{\numberline {24.3}LaTeX Files}{77}{subsection.24.3}%
+\contentsline {subsubsection}{\numberline {24.3.1}LaTeX Commands}{78}{subsubsection.24.3.1}%
+\contentsline {subsection}{\numberline {24.4}General Items}{78}{subsection.24.4}%
+\contentsline {subsection}{\numberline {24.5}Terminology to Know}{78}{subsection.24.5}%
+\contentsline {subsection}{\numberline {24.6}Tex Studio Commands}{78}{subsection.24.6}%
+\contentsline {subsection}{\numberline {24.7}Creating Templates}{78}{subsection.24.7}%
+\contentsline {section}{\numberline {25}Export File Format}{80}{section.25}%
+\contentsline {subsection}{\numberline {25.1}Downloading Tex Studio}{80}{subsection.25.1}%
+\contentsline {subsection}{\numberline {25.2}Source Code and Resume Templates}{80}{subsection.25.2}%
+\contentsline {subsection}{\numberline {25.3}LaTeX Files}{80}{subsection.25.3}%
+\contentsline {subsubsection}{\numberline {25.3.1}LaTeX Commands}{81}{subsubsection.25.3.1}%
+\contentsline {subsection}{\numberline {25.4}General Items}{81}{subsection.25.4}%
+\contentsline {subsection}{\numberline {25.5}Terminology to Know}{81}{subsection.25.5}%
+\contentsline {subsection}{\numberline {25.6}Tex Studio Commands}{81}{subsection.25.6}%
+\contentsline {subsection}{\numberline {25.7}Creating Templates}{81}{subsection.25.7}%
+\contentsline {section}{\numberline {26}Reduction}{83}{section.26}%
+\contentsline {subsection}{\numberline {26.1}Downloading Tex Studio}{83}{subsection.26.1}%
+\contentsline {subsection}{\numberline {26.2}Source Code and Resume Templates}{83}{subsection.26.2}%
+\contentsline {subsection}{\numberline {26.3}LaTeX Files}{83}{subsection.26.3}%
+\contentsline {subsubsection}{\numberline {26.3.1}LaTeX Commands}{84}{subsubsection.26.3.1}%
+\contentsline {subsection}{\numberline {26.4}General Items}{84}{subsection.26.4}%
+\contentsline {subsection}{\numberline {26.5}Terminology to Know}{84}{subsection.26.5}%
+\contentsline {subsection}{\numberline {26.6}Tex Studio Commands}{84}{subsection.26.6}%
+\contentsline {subsection}{\numberline {26.7}Creating Templates}{84}{subsection.26.7}%
+\contentsline {section}{\numberline {27}Real Numbers}{86}{section.27}%
+\contentsline {subsection}{\numberline {27.1}Downloading Tex Studio}{86}{subsection.27.1}%
+\contentsline {subsection}{\numberline {27.2}Source Code and Resume Templates}{86}{subsection.27.2}%
+\contentsline {subsection}{\numberline {27.3}LaTeX Files}{86}{subsection.27.3}%
+\contentsline {subsubsection}{\numberline {27.3.1}LaTeX Commands}{87}{subsubsection.27.3.1}%
+\contentsline {subsection}{\numberline {27.4}General Items}{87}{subsection.27.4}%
+\contentsline {subsection}{\numberline {27.5}Terminology to Know}{87}{subsection.27.5}%
+\contentsline {subsection}{\numberline {27.6}Tex Studio Commands}{87}{subsection.27.6}%
+\contentsline {subsection}{\numberline {27.7}Creating Templates}{87}{subsection.27.7}%
+\contentsline {section}{\numberline {28}ZFC entails CIC}{89}{section.28}%
+\contentsline {subsection}{\numberline {28.1}Downloading Tex Studio}{89}{subsection.28.1}%
+\contentsline {subsection}{\numberline {28.2}Source Code and Resume Templates}{89}{subsection.28.2}%
+\contentsline {subsection}{\numberline {28.3}LaTeX Files}{89}{subsection.28.3}%
+\contentsline {subsubsection}{\numberline {28.3.1}LaTeX Commands}{90}{subsubsection.28.3.1}%
+\contentsline {subsection}{\numberline {28.4}General Items}{90}{subsection.28.4}%
+\contentsline {subsection}{\numberline {28.5}Terminology to Know}{90}{subsection.28.5}%
+\contentsline {subsection}{\numberline {28.6}Tex Studio Commands}{90}{subsection.28.6}%
+\contentsline {subsection}{\numberline {28.7}Creating Templates}{90}{subsection.28.7}%
+\contentsline {section}{\numberline {29}Simple theories}{92}{section.29}%
+\contentsline {section}{\numberline {30}Bibliography}{93}{section.30}%
+\contentsline {subsection}{\numberline {30.1}Bibliography Source Code}{94}{subsection.30.1}%
+\contentsline {section}{\numberline {31}Miscellaneous}{95}{section.31}%
+\contentsline {subsection}{\numberline {31.1}Rule}{95}{subsection.31.1}%
+\contentsline {section}{\numberline {32}Some Common Errors}{96}{section.32}%
+\contentsline {section}{\numberline {33}Further Reading}{97}{section.33}%
+\contentsline {subsection}{\numberline {33.1}Websites and Tutorials}{97}{subsection.33.1}%
+\contentsline {subsection}{\numberline {33.2}Introduction/Commands/and Overall Good References}{97}{subsection.33.2}%
+\contentsline {subsubsection}{\numberline {33.2.1}Writing First Document}{97}{subsubsection.33.2.1}%
+\contentsline {subsubsection}{\numberline {33.2.2}Brief Introduction/List of Commands}{97}{subsubsection.33.2.2}%
+\contentsline {subsubsection}{\numberline {33.2.3}In-Depth LaTeX Guide}{98}{subsubsection.33.2.3}%
+\contentsline {subsection}{\numberline {33.3}Boxes}{98}{subsection.33.3}%
+\contentsline {subsection}{\numberline {33.4}Typesetting Math Documents}{98}{subsection.33.4}%
+\contentsline {subsubsection}{\numberline {33.4.1}Creating Math Documents}{98}{subsubsection.33.4.1}%
+\contentsline {subsubsection}{\numberline {33.4.2}Symbols}{98}{subsubsection.33.4.2}%
+\contentsline {subsubsection}{\numberline {33.4.3}Typing Math Functions/Equations}{99}{subsubsection.33.4.3}%
+\contentsline {subsection}{\numberline {33.5}Graphics}{99}{subsection.33.5}%
+\contentsline {subsubsection}{\numberline {33.5.1}Images}{99}{subsubsection.33.5.1}%
+\contentsline {subsubsection}{\numberline {33.5.2}Colors}{99}{subsubsection.33.5.2}%
+\contentsline {section}{\numberline {47}~~~ References}{101}{subsubsection.33.5.2}%
+\contentsfinish 
